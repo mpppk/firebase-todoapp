@@ -12,7 +12,7 @@
     "logs": "firebase functions:log"
   },
   "resolutions": {
-    "@types/react": "16.14.20"
+    "@types/react": "18.3.11"
   },
   "main": "lib/functions/src/index.js",
   "dependencies": {
